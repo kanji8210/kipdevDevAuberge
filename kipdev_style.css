@@ -1,0 +1,17 @@
+    .reserve_this {
+        border: none !important;
+        background-color: #0f5d91;
+        padding: 12px 24px;
+        transition-duration: 0.4s;
+        font-size: 18px;
+        color: white;
+    }
+    
+    .reserve_this:hover {
+        background-color: #568db1;
+        color: white;
+    }
+    
+    .btn-primary {
+        background-color: #0f5d91;
+    }
